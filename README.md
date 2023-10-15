@@ -1,2 +1,2 @@
 # moodmusicplayer
-music player with the help of emotion detection
+music player with the help of emotion detection using python
